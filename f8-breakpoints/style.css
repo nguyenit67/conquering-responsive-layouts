@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.parent {
+  background-color: #23424a;
+  padding: 25px;
+
+  margin: 0 auto;
+  width: 80%;
+}
+
+.child {
+  background-color: cyan;
+
+  height: 250px;
+}
+
+/* Mobile: width < 740px */
+
+/* Tablet: width >= 740px and with < 1024 */
+
+/* PC: width >= 1024 */
